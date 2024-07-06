@@ -13,13 +13,3 @@
     4. In JS we can also declare a variable and reserve it’s memory without prefixing it with any type
     5. In JS if we just declare a variable without assigning it a value, it takes a value as undefined
 */
-
-// Datatypes
-/*
-    Primitive: number, bigint, string, boolean, null (Standalone value), undefined (Value unassigned)
-    Non Primitive: symbol(used for uniqueness), object
-*/
-
-// Some exceptional cases around datatypes in JS
-console.log(typeof null); // OP: object
-console.log(typeof undefined); // OP: undefined
